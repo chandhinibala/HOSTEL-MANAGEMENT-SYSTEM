@@ -1,0 +1,2 @@
+# HOSTEL-MANAGEMENT-SYSTEM
+This system is a mini C project built with the help of functions, structures, files and other programming essentials that helps us to manage and view student's details i.e. about their accommodation in the hostel : their allotted rooms, student information such as bio data , course pursuing , hostel fees , mess fees , menu. This is a miniature version yet a very useful one for maintaining hostels. 
